@@ -2,13 +2,54 @@
 
 ## What is Go? 
 
-- 
+- Go or Golang is an open source programming language. It is statically typed and produces compiled machine code binaries. 
+ 
+- Go is created and developed by Google in 2009 and realsed to the public in 2010. Go is widely used in production at Google and in many other organization and open-source projects.
 
 ## Application
-- 
+
++ Cloud Services: 
+
+As the creator of Go, Google is using this language to provide cloud infrastructure: it offers top performance and scalability to the Google Cloud Platform. But there are even more well-known cloud businesses out there using Go for the same reasons: Dropbox, Terraform, Kubernetes, and Docker
+
++ Media Platform:
+
+YouTube, SoundCloud, and Netflix chose Go to fight with high loads on their sites. SoundCloud uses this language for deploying some internal services within their complex projects.
+
++ News Outlets:
+
+Back in 2012, the BBC (yep, it was a surprise to us too) started using Go for backend development and some of the elements of their internal analytics services.
+
++ On-demand services: 
+
+The taxi giant Uber was looking to improve map processing speeds as people loaded geofence lookups, sending literally thousands of queries per second. Go helped Uber significantly reduce the timing of providing services to users, which was much appreciated by users.
 
 ## Why use Go? 
--
+
++  Spend less time and money to develop an app:
+
+Apps created in Go actually compile to native machine code and don’t need any interpreter or virtual machine. 
+
++ Use Go for a range of apps: 
+
+Go is a really flexible language, able to solve a lot of problems. You can use it for system and network programming, big data, machine learning, audio and video editing, and more.
+
++ Get more performance and a wider audience for your app
+
+Similarly to C or C++, Go is a compiled language and doesn’t require any interpretation. Correspondingly, the absence of an interpreter frees up power and gives a Go-built app way more performance, which will surely be appreciated by users. Moreover, Go knows how to properly manage allocated memory. 
+
++ Worry less about the app crashing: 
+
+Go was created to use the full potential of multiple cores. Moreover, the language can properly use all the processor resources, so it’s perfect for running an app in the background as a single process. This is possible thanks to goroutines, which are used instead of threads and require much less RAM due to their non-system thread nature. This is why the risk of a Go app crashing due to lack of memory is lower. 
+
++ Easily find Go developers for your project: 
+
+Go is blowing up
+
+
+
+
+
 
 ## Go structure: 
 
